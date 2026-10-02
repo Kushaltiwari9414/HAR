@@ -1,0 +1,5 @@
+{
+  "name": "HAR",
+  "description": "Real-time human activity recognition powered by device sensors and Gemini Flash.",
+  "requestFramePermissions": []
+}
